@@ -1,0 +1,12 @@
+﻿  Header.cpp
+C:\Users\Max\source\repos\lab 2_1_2\lab 2_1_2\Header.h(104,21): warning C4584: 'Pass': base-class 'University' is already a base-class of 'TradeUnion'
+C:\Users\Max\source\repos\lab 2_1_2\lab 2_1_2\Header.h(23): message : see declaration of 'University'
+C:\Users\Max\source\repos\lab 2_1_2\lab 2_1_2\Header.h(73): message : see declaration of 'TradeUnion'
+C:\Users\Max\source\repos\lab 2_1_2\lab 2_1_2\Header.cpp(211,2): warning C4551: function call missing argument list
+  Source.cpp
+C:\Users\Max\source\repos\lab 2_1_2\lab 2_1_2\Header.h(104,21): warning C4584: 'Pass': base-class 'University' is already a base-class of 'TradeUnion'
+C:\Users\Max\source\repos\lab 2_1_2\lab 2_1_2\Header.h(23): message : see declaration of 'University'
+C:\Users\Max\source\repos\lab 2_1_2\lab 2_1_2\Header.h(73): message : see declaration of 'TradeUnion'
+C:\Users\Max\source\repos\lab 2_1_2\lab 2_1_2\Source.cpp(19,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  lab 2_1_2.vcxproj -> C:\Users\Max\source\repos\lab 2_1_2\Debug\lab 2_1_2.exe

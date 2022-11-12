@@ -1,0 +1,4 @@
+Price of travel: 49000
+Student name: Sausage
+City: Kyiv
+Duration of travel: 245

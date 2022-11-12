@@ -1,0 +1,4 @@
+Price of travel: 0
+Student name: Maxon
+City: 
+Duration of travel: 0
